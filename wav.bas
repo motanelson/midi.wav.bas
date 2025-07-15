@@ -72,6 +72,8 @@ End Sub
 
 '------------------  Programa principal ------------------
 Dim As String nomeTxt
+color 0,6
+cls
 Print "Nome do ficheiro de texto a converter: ";
 Line Input nomeTxt
 
